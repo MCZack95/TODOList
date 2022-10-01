@@ -21,6 +21,8 @@ class MainActivity : AppCompatActivity() {
     var itemList = ArrayList<String>()
     var fileHelper = FileHelper()
 
+    //random comment
+    
     override fun onCreate(savedInstanceState: Bundle?) {
         super.onCreate(savedInstanceState)
 
