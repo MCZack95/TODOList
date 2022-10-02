@@ -27,7 +27,7 @@ class MainActivity : AppCompatActivity() {
         supportActionBar!!.setDisplayShowHomeEnabled(true)
         supportActionBar!!.setLogo(R.mipmap.logo_image)
         supportActionBar!!.setDisplayUseLogoEnabled(true)
-        supportActionBar!!.title = "TODO List"
+        supportActionBar!!.title = "Basic TODO List"
 
         setContentView(R.layout.activity_main)
 
