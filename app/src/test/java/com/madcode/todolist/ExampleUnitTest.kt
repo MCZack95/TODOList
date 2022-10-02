@@ -1,4 +1,4 @@
-package com.madhat.todolist
+package com.madcode.todolist
 
 import org.junit.Test
 
